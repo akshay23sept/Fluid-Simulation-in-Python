@@ -1,0 +1,30 @@
+solid outlet
+ facet normal 1 0 0
+  outer loop
+   vertex 2 0.0127 0
+   vertex 2 0 0.151
+   vertex 2 0 0
+  endloop
+ endfacet
+ facet normal 1 0 -0
+  outer loop
+   vertex 2 0.0127 0
+   vertex 2 0.0127 0.151
+   vertex 2 0 0.151
+  endloop
+ endfacet
+ facet normal 1 -0 0
+  outer loop
+   vertex 2 0.0127 0.151
+   vertex 2 0.0127 0
+   vertex 2 0.1143 0.151
+  endloop
+ endfacet
+ facet normal 1 0 0
+  outer loop
+   vertex 2 0.0127 0
+   vertex 2 0.1143 0
+   vertex 2 0.1143 0.151
+  endloop
+ endfacet
+endsolid outlet
